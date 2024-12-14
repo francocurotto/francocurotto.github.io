@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# 👋 Welcome to My Site
+Hi 👋 I'm Franco. I'm an Electronics Engineer from  Chile 🇨🇱. I'm currently working in the research center [CATA](cata.cl) as a Laboratoty Manager 👨‍🔬. I'm also an emoji expert 😎🔥. 
 
-Site under construction 🏗️, please be patient 🙏
+In my free time I like to play video games 🎮, read about history 📜, and (very slowly) learn the Japanese language 🇯🇵.
