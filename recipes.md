@@ -7,9 +7,11 @@ permalink: /recipes/
 # Recipes
 
 <ul>
-  {% for post in site.categories.recipes %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+  {% for page in site.pages %}
+    {% if page.path contains "recipes/" and page.title %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
