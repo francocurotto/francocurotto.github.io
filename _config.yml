@@ -4,4 +4,4 @@ email: francocurotto@gmail.com
 github_username: francocurotto
 theme: minima
 include:
-    - _posts
+    - recipes
