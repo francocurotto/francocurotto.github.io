@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Recipes
+permalink: /recipes/
 ---
 
-<h1>{{ page.title }}</h1>
+# Recipes
 
 <ul>
-  {% for post in site.recipes %}
+  {% for post in site.categories.recipes %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
