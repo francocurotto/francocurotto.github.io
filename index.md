@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Description](static/images/avatar-20210806.jpg)
+![Description](static/images/avatar-20210806.jpg){: style="width: 200px;" }
 
 <div style="text-align: center;">
   ![Description](static/images/avatar-20210806.jpg)
