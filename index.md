@@ -8,7 +8,7 @@ title: Home
 </div>
 
 <div style="text-align: center;">
-  <img src="assets/images/example.jpg" alt="Me at ALMA Telescope" style="display: block; margin: 0 auto;">
+  <img src="assets/images/avatar-20210806.jpg" alt="Me at ALMA Telescope" style="display: block; margin: 0 auto;">
 </div>
 
 Hi 👋 I'm Franco.
