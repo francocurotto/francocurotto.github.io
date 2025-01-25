@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Description](static/images/avatar-20210806.jpg){: style="width: 200px; display: block; margin: 0 auto; text-align: center;" }
+![Me at ALMA Telescope!](static/images/avatar-20210806.jpg){: style="width: 200px; display: block; margin: 0 auto; text-align: center;" }
 
 Hi 👋 I'm Franco.
 
