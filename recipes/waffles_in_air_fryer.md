@@ -3,14 +3,14 @@ layout: default
 title: Waffles in Air Fryer
 ---
 
-# Ingredients
-- 200 g all-purpose flour 
-- 50 g granulated sugar
-- 2 tsp baking powder (about 8 g)
+# Ingredients (2 people)
+- 100 g all-purpose flour 
+- 25 g granulated sugar
+- 1 tsp baking powder (about 4 g)
 - 🧂 1/4 tsp salt
-- 🥛 250 ml milk (whole or semi-skimmed)
-- 🧈 60 g unsalted butter, melted
-- 🥚 2 large eggs
+- 🥛 125 ml milk (whole or semi-skimmed)
+- 🧈 30 g unsalted butter, melted
+- 🥚 1 large eggs
 - 1 tsp vanilla extract
 
 # Instructions
