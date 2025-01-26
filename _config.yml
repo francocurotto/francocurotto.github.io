@@ -5,3 +5,4 @@ github_username: francocurotto
 theme: minima
 header_pages:
     - recipes.md
+    - caso_sustituto.md
