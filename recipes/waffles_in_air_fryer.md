@@ -10,7 +10,7 @@ title: Waffles in Air Fryer
 - 🧂 1/4 tsp salt
 - 🥛 125 ml milk (whole or semi-skimmed)
 - 🧈 30 g unsalted butter, melted
-- 🥚 1 large eggs
+- 🥚 1 large egg
 - 1 tsp vanilla extract
 
 # Instructions
