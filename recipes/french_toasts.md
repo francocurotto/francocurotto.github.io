@@ -11,7 +11,7 @@ title: French Toasts
 - pinch of cinnamon
 
 # Instructions
-- Mix ingredients in bowl 🥣
-- Soak breads in mix and cook in pan with butter 🧈 until brown
-- Cut each bread in 4
-- Decorate with berries 🫐 and syrup 🥞
+1. Mix ingredients in bowl 🥣
+2. Soak breads in mix and cook in pan with butter 🧈 until brown
+3. Cut each bread in 4
+4. Decorate with berries 🫐 and syrup 🥞

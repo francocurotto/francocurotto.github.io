@@ -14,6 +14,6 @@ title: Waffles in Air Fryer
 - 1 tsp vanilla extract
 
 # Instructions
-- Mix ingredients in Thermomix
-- Put silicone mold in Air Fryer and preheat at 200°C
-- Put mix in mold and cook at 200°C for 8-10 minutes 
+1. Mix ingredients in Thermomix
+2. Put silicone mold in Air Fryer and preheat at 200°C
+3. Put mix in mold and cook at 200°C for 8-10 minutes 
