@@ -4,5 +4,6 @@ email: francocurotto@gmail.com
 github_username: francocurotto
 theme: minima
 header_pages:
+    - outreach.md
     - recipes.md
     - caso_sustituto.md
