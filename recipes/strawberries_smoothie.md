@@ -11,9 +11,9 @@ title: Strawberry Smoothie in Thermomix
 - 🧊 6 ice cubes
 
 # 🔢 Instructions
-- Clean strawberries and remove stem
-- Add ingredients (except ice) and crush at 1 min/speed 10
-- Add ice and crush at 30 sec/speed 8
+1. Clean strawberries and remove stem
+2. Add ingredients (except ice) and crush at 1 min/speed 10
+3. Add ice and crush at 30 sec/speed 8
 
 # 💡 Ideas
 - Add a banana 🍌 for extra creaminess
