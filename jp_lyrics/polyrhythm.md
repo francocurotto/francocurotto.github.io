@@ -3,10 +3,9 @@ site: post
 title: Polyrhythm
 ---
 
-# Polyrhythm
 ## Perfume
 
-とても大事な キミの想いは 
+とても大事な キミの想いは  
 Totemo daiji na kimi no omoi wa 
 Your very precious thoughts 
 
