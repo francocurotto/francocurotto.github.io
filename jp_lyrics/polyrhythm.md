@@ -17,7 +17,7 @@ Are not to be wasted and world keeps turning
 Honno sukoshi no boku no kimochi mo  
 My little feelings  
   
-  
+. 
   
 くり返す このポリリズム  
 Kurikaesu kono poririzumu  
