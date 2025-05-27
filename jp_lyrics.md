@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🇯🇵 Lyrics
+title: "🇯🇵 Lyrics"
 ---
 
 # Perfume

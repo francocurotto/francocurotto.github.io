@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recipes
+title: "Recipes"
 permalink: /recipes/
 ---
 
