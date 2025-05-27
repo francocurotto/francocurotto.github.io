@@ -4,4 +4,4 @@ title: "JP Lyrics"
 ---
 
 # Perfume
-- [Polyrhythm](/jp_lyrics/polyrythm.md)
+- [Polyrhythm](jp_lyrics/polyrhythm.md)

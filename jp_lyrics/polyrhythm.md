@@ -1,9 +1,9 @@
 ---
 site: post
-title: Polyrythm
+title: Polyrhythm
 ---
 
-# Polyrythm
+# Polyrhythm
 ## Perfume
 
 とても大事な キミの想いは 
