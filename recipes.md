@@ -4,8 +4,6 @@ title: Recipes
 permalink: /recipes/
 ---
 
-# Recipes
-
 <ul>
   {% for page in site.pages %}
     {% if page.path contains "recipes/" and page.title %}
