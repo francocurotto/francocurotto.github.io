@@ -17,7 +17,11 @@ Are not to be wasted and world keeps turning
 Honno sukoshi no boku no kimochi mo  
 My little feelings  
   
-. 
+巡り巡るよ  
+Meguri meguru yo  
+Also keeps going round and round  
+  
+.  
   
 くり返す このポリリズム  
 Kurikaesu kono poririzumu  
