@@ -3,9 +3,9 @@ site: post
 title: Polyrhythm
 ---
 
-とても大事なキミの想いは  
-TOTEMO DAIJI NA KIMI NO OMOI WA  
-**Your very special feelings**  
+とても大事なキミの想いは\
+TOTEMO DAIJI NA KIMI NO OMOI WA\
+**Your very special feelings**\
 
 無駄にならない世界は廻る\
 Muda ni naranai sekai wa mawaru\
@@ -19,6 +19,7 @@ Just a little bit of my feelings
 Meguri meguru yo  
 Are spinning with it  
   
+---
   
 くり返すこのポリリズム  
 Kurikaesu kono poririzumu  
