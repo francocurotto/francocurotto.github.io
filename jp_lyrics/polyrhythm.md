@@ -91,7 +91,7 @@ PORIRUUPU, PORIRUUPU, PORIRUUPU, PORIRUUPU
 PORIRUUPU, PORIRUUPU, RUUPU, RUUPU, RUUPU, RUUPU, RUUPU  
 **Polyloop, polyloop, loop, loop, loop, loop, loop**  
 
---  
+--
 
 ほんの少しの僕の気持ちが  
 HONNO SUKOSHI NO BOKU NO KIMOCHI GA  
@@ -101,7 +101,7 @@ HONNO SUKOSHI NO BOKU NO KIMOCHI GA
 KIMI NI TSUTAWARU SOU SHINJITERU  
 **I believe that I will show you**  
 
---  
+--
 
 とても大事なキミの想いは  
 TOTEMO DAIJI NA KIMI NO OMOI WA  
@@ -119,7 +119,7 @@ HONNO SUKOSHI NO BOKU NO KIMOCHI MO
 MEGURI MEGURU YO  
 **Are spinning with it**  
 
---  
+--
 
 くり返すこのポリリズム  
 KURIKAESU KONO PORIRIZUMU  
@@ -153,7 +153,7 @@ KURIKAESU KONO PORIRUUPU
 AA PURASUCHIKKU MITAI NA KOI DA  
 **Ah, this love is fake as plastic**  
 
---  
+--
 
 またくり返す  
 MATA KURIKAESU  
