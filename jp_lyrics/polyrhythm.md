@@ -131,7 +131,7 @@ ANO KOUDOU WA MARU DE KOI DA NE
 
 くり返すいつかみたいな  
 KURIKAESU ITSUKA MITAI NA  
-**Those actions are just like lo**ve
+**Those actions are just like love**    
 
 あの光景が甦るの  
 ANO KANJOU GA YOMIGAERU NO  
