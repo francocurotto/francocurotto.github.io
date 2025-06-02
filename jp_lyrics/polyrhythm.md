@@ -18,9 +18,9 @@ HONNO SUKOSHI NO BOKU NO KIMOCHI MO
 巡り巡るよ  
 MEGURI MEGURU YO  
 **Are spinning with it**  
-  
+
 --
-  
+
 くり返すこのポリリズム  
 KURIKAESU KONO PORIRIZUMU  
 **This repeating polyrhythm**  
@@ -75,19 +75,19 @@ KONO PORIRIZUMU
 PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
 **Polyrhythm, polyrhythm, polyrhythm, polyrhythm**  
 
-ポリリズム, ポリリズム, ポリリズム, ポリリズム  
+ポリリズム、ポリリズム、ポリリズム、ポリリズム  
 PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
 **Polyrhythm, polyrhythm, polyrhythm, polyrhythm**  
 
-ポリリズム, リズム, リズム, リズム, リズム, リズム, リズム  
+ポリリズム、リズム、リズム、リズム、リズム、リズム、リズム  
 PORIRIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU  
 **Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm**  
 
-ポリループ, ポリループ, ポリループ, ポリループ  
+ポリループ、ポリループ、ポリループ、ポリループ  
 PORIRUUPU, PORIRUUPU, PORIRUUPU, PORIRUUPU  
 **Polyloop, polyloop, polyloop, polyloop**  
 
-ポリループ, ポリループ, ループ, ループ, ループ, ループ, ループ  
+ポリループ、ポリループ、ループ、ループ、ループ、ループ、ループ  
 PORIRUUPU, PORIRUUPU, RUUPU, RUUPU, RUUPU, RUUPU, RUUPU  
 **Polyloop, polyloop, loop, loop, loop, loop, loop**  
 
@@ -155,19 +155,19 @@ AA PURASUCHIKKU MITAI NA KOI DA
 
 --  
 
-またくり返す             
+またくり返す  
 MATA KURIKAESU  
 **It repeats again**  
 
-ポリリズム, ポリリズム, ポリリズム, ポリリズム  
+ポリリズム、ポリリズム、ポリリズム、ポリリズム  
 PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
 **Polyrhythm, polyrhythm, polyrhythm, polyrhythm**  
 
-ポリリズム, ポリリズム, ポリリズム, ポリリズム  
+ポリリズム、ポリリズム、ポリリズム、ポリリズム  
 PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
 **Polyrhythm, polyrhythm, polyrhythm, polyrhythm**  
 
-ポリリズム, リズム, リズム, リズム, リズム, リズム, リズム  
+ポリリズム、リズム、リズム、リズム、リズム、リズム、リズム  
 PORIRIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU  
 **Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm**  
 
