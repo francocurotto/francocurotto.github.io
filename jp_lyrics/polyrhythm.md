@@ -71,13 +71,13 @@ This polyrhythm
 Kono poririzumu  
 This polyrhythm  
 
-ポリリズム, ポリリズム, ポリリズム, ポリリズム
-Poririzumu, poririzumu, poririzumu, poririzumu
-Polyrhythm, polyrhythm, polyrhythm, polyrhythm
+ポリリズム, ポリリズム, ポリリズム, ポリリズム  
+Poririzumu, poririzumu, poririzumu, poririzumu  
+Polyrhythm, polyrhythm, polyrhythm, polyrhythm  
 
-ポリリズム, ポリリズム, ポリリズム, ポリリズム
-Poririzumu, poririzumu, poririzumu, poririzumu
-Polyrhythm, polyrhythm, polyrhythm, polyrhythm
+ポリリズム, ポリリズム, ポリリズム, ポリリズム  
+Poririzumu, poririzumu, poririzumu, poririzumu  
+Polyrhythm, polyrhythm, polyrhythm, polyrhythm  
 
 ポリリズム, リズム, リズム, リズム, リズム, リズム, リズム  
 Poririzumu, rizumu, rizumu, rizumu, rizumu, rizumu, rizumu  
@@ -87,9 +87,9 @@ Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm
 Poriruupu, poriruupu, poriruupu, Poriruupu  
 Polyloop, polyloop, polyloop, polyloop  
 
-ポリループ, ポリループ, ループ, ループ, ループ, ループ, ループ
-Poriruupu, poriruupu, ruupu, ruupu, ruupu, ruupu, ruupu
-Polyloop, polyloop, loop, loop, loop, loop, loop
+ポリループ, ポリループ, ループ, ループ, ループ, ループ, ループ  
+Poriruupu, poriruupu, ruupu, ruupu, ruupu, ruupu, ruupu  
+Polyloop, polyloop, loop, loop, loop, loop, loop  
 
 .  
 
