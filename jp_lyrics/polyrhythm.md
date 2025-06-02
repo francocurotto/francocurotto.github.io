@@ -4,22 +4,21 @@ title: Polyrhythm
 ---
 
 とても大事なキミの想いは  
-Totemo daiji na kimi no omoi wa  
-Your very special feelings  
+TOTEMO DAIJI NA KIMI NO OMOI WA  
+**Your very special feelings**  
 
-無駄にならない世界は廻る  
-Muda ni naranai sekai wa mawaru  
-Aren't just useless as this world spins  
+無駄にならない世界は廻る\
+Muda ni naranai sekai wa mawaru\
+Aren't just useless as this world spins\
 
-ほんの少しの僕の気持ちも  
-Honno sukoshi no boku no kimochi mo  
-Just a little bit of my feelings  
+ほんの少しの僕の気持ちも
+Honno sukoshi no boku no kimochi mo
+Just a little bit of my feelings
 
 巡り巡るよ  
 Meguri meguru yo  
 Are spinning with it  
   
-.  
   
 くり返すこのポリリズム  
 Kurikaesu kono poririzumu  
