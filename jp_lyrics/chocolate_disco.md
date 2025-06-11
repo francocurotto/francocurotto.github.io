@@ -3,9 +3,29 @@ site: post
 title: Chocolate Disco
 ---
 
-チョコレイト・ディスコ (x11)  
-CHOKOREITO DISUKO (X11)  
-**Chocolate Disco (x11)**
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
 
 ディスコ・コ・コ  
 DISUKO KO KO  
