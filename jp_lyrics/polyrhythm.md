@@ -4,173 +4,173 @@ title: Polyrhythm
 ---
 
 とても大事なキミの想いは  
-Totemo daiji na kimi no omoi wa  
-Your very precious thoughts
+TOTEMO DAIJI NA KIMI NO OMOI WA  
+**Your very precious thoughts**
 
 無駄にならない世界は廻る  
-Muda ni naranai sekai wa mawaru  
-Are not to be wasted and world keeps turning
+MUDA NI NARANAI SEKAI WA MAWARU  
+**Are not to be wasted and world keeps turning**
 
 ほんの少しの僕の気持ちも  
-Honno sukoshi no boku no kimochi mo  
-My little feelings
+HONNO SUKOSHI NO BOKU NO KIMOCHI MO  
+**My little feelings**
 
 巡り巡るよ  
-Meguri meguru yo  
-Also keeps going round and round
+MEGURI MEGURU YO  
+**Also keeps going round and round**
   
 .  
   
 くり返すこのポリリズム  
-Kurikaesu kono poririzumu  
-Repeating this polyrhythm
+KURIKAESU KONO PORIRIZUMU  
+**Repeating this polyrhythm**
 
 あの衝動はまるで恋だね  
-Ano shoudou wa maru de koi da ne  
-That impulse, just like love
+ANO SHOUDOU WA MARU DE KOI DA NE  
+**That impulse, just like love**
 
 くり返すいつかみたいな  
-Kurikaesu itsuka mitai na  
-Repeating, just like when
+KURIKAESU ITSUKA MITAI NA  
+**Repeating, just like when**
 
 あの光景が甦るの  
-Ano koukei ga yomigaeru no  
-That scenery comes back to life
+ANO KOUKEI GA YOMIGAERU NO  
+**That scenery comes back to life**
 
 くり返すこのポリリズム  
-Kurikaesu kono poririzumu  
-Repeating this polyrhythm
+KURIKAESU KONO PORIRIZUMU  
+**Repeating this polyrhythm**
 
 あの反動がうそみたいだね  
-Ano handou ga uso mitai da ne  
-That reaction, feels unreal
+ANO HANDOU GA USO MITAI DA NE  
+**That reaction, feels unreal**
 
 くり返すこのポリループ  
-Kurikaesu kono poriruupu  
-Repeating this polyloop
+KURIKAESU KONO PORIRUUPU  
+**Repeating this polyloop**
 
 ああプラスチックみたいな恋だ  
-Aa purasuchikku mitai na koi da  
-Ah, this love is like plastic
+AA PURASUCHIKKU MITAI NA KOI DA  
+**Ah, this love is like plastic**
 
 .
 
 またくり返す  
-Mata kurikaesu  
-It repeats again  
+MATA KURIKAESU  
+**It repeats again**
 
 このポリリズム  
-Kono poririzumu  
-This polyrhythm  
+KONO PORIRIZUMU  
+**This polyrhythm**
 
 このポリリズム  
-Kono poririzumu  
-This polyrhythm  
+KONO PORIRIZUMU  
+**This polyrhythm**
 
 このポリリズム  
-Kono poririzumu  
-This polyrhythm  
+KONO PORIRIZUMU  
+**This polyrhythm**
 
 ポリリズム, ポリリズム, ポリリズム, ポリリズム  
-Poririzumu, poririzumu, poririzumu, poririzumu  
-Polyrhythm, polyrhythm, polyrhythm, polyrhythm  
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
+**Polyrhythm, polyrhythm, polyrhythm, polyrhythm**
 
 ポリリズム, ポリリズム, ポリリズム, ポリリズム  
-Poririzumu, poririzumu, poririzumu, poririzumu  
-Polyrhythm, polyrhythm, polyrhythm, polyrhythm  
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
+**Polyrhythm, polyrhythm, polyrhythm, polyrhythm**
 
 ポリリズム, リズム, リズム, リズム, リズム, リズム, リズム  
-Poririzumu, rizumu, rizumu, rizumu, rizumu, rizumu, rizumu  
-Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm  
+PORIRIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU  
+**Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm**
 
 ポリループ, ポリループ, ポリループ, ポリループ  
-Poriruupu, poriruupu, poriruupu, Poriruupu  
-Polyloop, polyloop, polyloop, polyloop  
+PORIRUUPU, PORIRUUPU, PORIRUUPU, PORIRUUPU  
+**Polyloop, polyloop, polyloop, polyloop**
 
 ポリループ, ポリループ, ループ, ループ, ループ, ループ, ループ  
-Poriruupu, poriruupu, ruupu, ruupu, ruupu, ruupu, ruupu  
-Polyloop, polyloop, loop, loop, loop, loop, loop  
+PORIRUUPU, PORIRUUPU, RUUPU, RUUPU, RUUPU, RUUPU, RUUPU  
+**Polyloop, polyloop, loop, loop, loop, loop, loop**
 
 .  
 
 ほんの少しの僕の気持ちが  
-Honno sukoshi no boku no kimochi ga  
-My little feeling
+HONNO SUKOSHI NO BOKU NO KIMOCHI GA  
+**My little feeling**
 
 キミに伝わるそう信じてる  
-Kimi ni tsutawaru sou shinjiteru  
-I believe it will reach you
+KIMI NI TSUTAWARU SOU SHINJITERU  
+**I believe it will reach you**
 
 .  
 
 とても大事なキミの想いは  
-Totemo daiji na kimi no omoi wa  
-Your very precious thoughts
+TOTEMO DAIJI NA KIMI NO OMOI WA  
+**Your very precious thoughts**
 
 無駄にならない世界は廻る  
-Muda ni naranai sekai wa mawaru  
-Are not to be wasted and world keeps turning
+MUDA NI NARANAI SEKAI WA MAWARU  
+**Are not to be wasted and world keeps turning**
 
 ほんの少しの僕の気持ちも  
-Honno sukoshi no boku no kimochi mo  
-My little feelings
+HONNO SUKOSHI NO BOKU NO KIMOCHI MO  
+**My little feelings**
 
 巡り巡るよ  
-Meguri meguru yo  
-Also keeps going round and round
+MEGURI MEGURU YO  
+**Also keeps going round and round**
 
 .  
 
 くり返すこのポリリズム  
-Kurikaesu kono poririzumu  
-Repeating this polyrhythm
+KURIKAESU KONO PORIRIZUMU  
+**Repeating this polyrhythm**
 
 あの衝動はまるで恋だね  
-Ano koudou wa maru de koi da ne  
-That action, just like love
+ANO KOUDOU WA MARU DE KOI DA NE  
+**That action, just like love**
 
 くり返すいつかみたいな  
-Kurikaesu itsuka mitai na  
-Repeating, just like when
+KURIKAESU ITSUKA MITAI NA  
+**Repeating, just like when**
 
 あの光景が甦るの  
-Ano kanjou ga yomigaeru no  
-That affection comes back to life
+ANO KANJOU GA YOMIGAERU NO  
+**That affection comes back to life**
 
 くり返すこのポリリズム  
-Kurikaesu kono poririzumu  
-Repeating this polyrhythm
+KURIKAESU KONO PORIRIZUMU  
+**Repeating this polyrhythm**
 
 あの反動がうそみたいだね  
-Ano handou ga uso mitai da ne  
-That reaction, feels unreal
+ANO HANDOU GA USO MITAI DA NE  
+**That reaction, feels unreal**
 
 くり返すこのポリループ  
-Kurikaesu kono poriruupu  
-Repeating this polyloop
+KURIKAESU KONO PORIRUUPU  
+**Repeating this polyloop**
 
 ああプラスチックみたいな恋だ  
-Aa purasuchikku mitai na koi da  
-Ah, this love is like plastic
+AA PURASUCHIKKU MITAI NA KOI DA  
+**Ah, this love is like plastic**
 
 .  
 
 またくり返す             
-Mata kurikaesu  
-It repeats again  
+MATA KURIKAESU  
+**It repeats again**
 
 ポリリズム, ポリリズム, ポリリズム, ポリリズム  
-Poririzumu, poririzumu, poririzumu, poririzumu  
-Polyrhythm, polyrhythm, polyrhythm, polyrhythm  
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
+**Polyrhythm, polyrhythm, polyrhythm, polyrhythm**
 
 ポリリズム, ポリリズム, ポリリズム, ポリリズム  
-Poririzumu, poririzumu, poririzumu, poririzumu  
-Polyrhythm, polyrhythm, polyrhythm, polyrhythm  
+PORIRIZUMU, PORIRIZUMU, PORIRIZUMU, PORIRIZUMU  
+**Polyrhythm, polyrhythm, polyrhythm, polyrhythm**
 
 ポリリズム, リズム, リズム, リズム, リズム, リズム, リズム  
-Poririzumu, rizumu, rizumu, rizumu, rizumu, rizumu, rizumu  
-Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm  
+PORIRIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU, RIZUMU  
+**Polyrhythm, rhythm, rhythm, rhythm, rhythm, rhythm, rhythm**
 
 ポリリズム  
-Poririzumu  
-Polyrhythm  
+PORIRIZUMU  
+**Polyrhythm**
