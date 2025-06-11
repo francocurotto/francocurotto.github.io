@@ -5,53 +5,53 @@ title: Polyrhythm
 
 とても大事なキミの想いは  
 Totemo daiji na kimi no omoi wa  
-Your very special feelings  
+Your very precious thoughts
 
 無駄にならない世界は廻る  
 Muda ni naranai sekai wa mawaru  
-Aren't just useless as this world spins  
+Are not to be wasted and world keeps turning
 
 ほんの少しの僕の気持ちも  
 Honno sukoshi no boku no kimochi mo  
-Just a little bit of my feelings  
+My little feelings
 
 巡り巡るよ  
 Meguri meguru yo  
-Are spinning with it  
+Also keeps going round and round
   
 .  
   
 くり返すこのポリリズム  
 Kurikaesu kono poririzumu  
-This repeating polyrhythm  
+Repeating this polyrhythm
 
 あの衝動はまるで恋だね  
 Ano shoudou wa maru de koi da ne  
-Those impulses are just like love  
+That impulse, just like love
 
 くり返すいつかみたいな  
 Kurikaesu itsuka mitai na  
-That repeating scene from some time  
+Repeating, just like when
 
 あの光景が甦るの  
 Ano koukei ga yomigaeru no  
-Will be remembered again  
+That scenery comes back to life
 
 くり返すこのポリリズム  
 Kurikaesu kono poririzumu  
-This repeating polyrhythm  
+Repeating this polyrhythm
 
 あの反動がうそみたいだね  
 Ano handou ga uso mitai da ne  
-That reaction must be a lie  
+That reaction, feels unreal
 
 くり返すこのポリループ  
 Kurikaesu kono poriruupu  
-This repeating polyloop  
+Repeating this polyloop
 
 ああプラスチックみたいな恋だ  
 Aa purasuchikku mitai na koi da  
-Ah, this love is fake as plastic  
+Ah, this love is like plastic
 
 .
 
@@ -95,63 +95,63 @@ Polyloop, polyloop, loop, loop, loop, loop, loop
 
 ほんの少しの僕の気持ちが  
 Honno sukoshi no boku no kimochi ga  
-Just a little bit of my feelings  
+My little feeling
 
 キミに伝わるそう信じてる  
 Kimi ni tsutawaru sou shinjiteru  
-I believe that I will show you  
+I believe it will reach you
 
 .  
 
 とても大事なキミの想いは  
 Totemo daiji na kimi no omoi wa  
-Your very special feelings  
+Your very precious thoughts
 
 無駄にならない世界は廻る  
 Muda ni naranai sekai wa mawaru  
-Aren't just useless as this world spins  
+Are not to be wasted and world keeps turning
 
 ほんの少しの僕の気持ちも  
 Honno sukoshi no boku no kimochi mo  
-Just a little bit of my feelings  
+My little feelings
 
 巡り巡るよ  
 Meguri meguru yo  
-Are spinning with it  
+Also keeps going round and round
 
 .  
 
 くり返すこのポリリズム  
 Kurikaesu kono poririzumu  
-This repeating polyrhythm  
+Repeating this polyrhythm
 
 あの衝動はまるで恋だね  
 Ano koudou wa maru de koi da ne  
-Those actions are just like love  
+That action, just like love
 
 くり返すいつかみたいな  
 Kurikaesu itsuka mitai na  
-Those actions are just like love
+Repeating, just like when
 
 あの光景が甦るの  
 Ano kanjou ga yomigaeru no  
-Will be remembered again  
+That affection comes back to life
 
 くり返すこのポリリズム  
 Kurikaesu kono poririzumu  
-This repeating polyrhythm  
+Repeating this polyrhythm
 
 あの反動がうそみたいだね  
 Ano handou ga uso mitai da ne  
-That reaction must be a lie  
+That reaction, feels unreal
 
 くり返すこのポリループ  
 Kurikaesu kono poriruupu  
-This repeating polyloop  
+Repeating this polyloop
 
 ああプラスチックみたいな恋だ  
 Aa purasuchikku mitai na koi da  
-Ah, this love is fake as plastic  
+Ah, this love is like plastic
 
 .  
 
