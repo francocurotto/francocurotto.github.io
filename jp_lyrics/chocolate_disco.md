@@ -19,17 +19,21 @@ CHOKOREITO DISUKO, CHOKOREITO DISUKO
 CHOKOREITO DISUKO, CHOKOREITO DISUKO  
 **Chocolate disco, chocolate disco**
 
-チョコレイト・ディスコ、チョコレイト・ディスコ  
-CHOKOREITO DISUKO, CHOKOREITO DISUKO  
-**Chocolate disco, chocolate disco**
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
 
 チョコレイト・ディスコ  
 CHOKOREITO DISUKO  
 **Chocolate disco**
 
 ディスコ・コ・コ  
-DISUKO KO KO  
-**Disco co co**
+DISUKO-KO-KO  
+**Disco-co-co**
 
 .  
   
@@ -86,14 +90,38 @@ TAIKETSU NO HI GA KITA
 **Today is the day**
 
 .  
-  
-チョコレイト・ディスコ (x11)  
-CHOKOREITO DISUKO (X11)  
-**Chocolate Disco (x11)**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
 
 ディスコ・コ・コ  
-DISUKO KO KO  
-**Disco co co**
+DISUKO-KO-KO  
+**Disco-co-co** 
 
 .  
   
@@ -132,12 +160,57 @@ NAZE KA KYOUSHITSU GA DANZU FUROANI
 **The classroom turns into the dance floor**
 
 .  
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
   
-チョコレイト・ディスコ...  
-CHOKOREITO DISUKO...  
-**Chocolate Disco...**
+.  
+  
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
 
-ディスコ...  
-DISUKO...  
-**Disco...**
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
 
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ、チョコレイト・ディスコ  
+CHOKOREITO DISUKO, CHOKOREITO DISUKO  
+**Chocolate disco, chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
+
+チョコレイト・ディスコ  
+CHOKOREITO DISUKO  
+**Chocolate disco**
