@@ -1,6 +1,6 @@
 ---
 layout: post
-title: French Toasts
+title: French Toasts in Pan
 ---
 
 # 📋 Ingredients 
@@ -8,7 +8,7 @@ title: French Toasts
 - 🥛 60 ml of milk
 - 🍞 4 slices of bread
 - 2 ml vanilla (1/2 spoon 🥄)
-- pinch of cinnamon
+- pinch cinnamon
 - 🥞 syrup
 
 # 🔢 Instructions
