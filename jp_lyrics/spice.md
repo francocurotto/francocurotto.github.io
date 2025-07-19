@@ -37,9 +37,9 @@ KOUKISHIN NO SUPAISU WA NE
 MEGURI MEGURI NANIKA OKOSU NO  
 **Goes in circles and makes something happen**
 
+Spice  
 SPICE  
-SPICE  
-**SPICE**
+**Spice**
 
 .  
   
@@ -99,9 +99,9 @@ KOUKISHIN NO SUPAISU WA NE
 MEGURI MEGURI NANIKA OKOSU NO  
 **Goes in circles and makes something happen**
 
+Spice  
 SPICE  
-SPICE  
-**SPICE**
+**Spice**
 
 .  
   
@@ -161,9 +161,9 @@ KOUKISHIN NO SUPAISU WA NE
 MEGURI MEGURI NANIKA OKOSU NO  
 **Goes in circles and makes something happen**
 
+Spice  
 SPICE  
-SPICE  
-**SPICE**
+**Spice**
 
 .  
   
@@ -183,7 +183,7 @@ WAKUWAKU GA HOSHII
 HARAHARA SURU WA  
 **Give me anxiety**
 
+Spice  
 SPICE  
-SPICE  
-**SPICE**
+**Spice**
 
