@@ -5,4 +5,4 @@ permalink: /projects/
 ---
 
 # Personal
-- [Caso Sustituto](projects/caso_sustituto.md): Traslation on a fanmade Ace Attorney game (🇪🇸 Spanish).
+- [Caso Sustituto](projects/caso_sustituto.md): Translation of a fanmade Ace Attorney game (🇪🇸 Spanish).
