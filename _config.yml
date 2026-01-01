@@ -1,6 +1,6 @@
 title: Franco's Site
 author: Franco Curotto
-#email: francocurotto@gmail.com
+email: francocurotto@gmail.com
 #github_username: francocurotto
 theme: minima
 header_pages:
@@ -10,6 +10,6 @@ header_pages:
     - jp_lyrics.md
 minima:
     social_links:
-        - { platform: email,   user_url: "mailto:francocurotto@gmail.com" }
-        - { platform: github,  user_url: "https://github.com/francocurotto" }
-        - { platform: linkedin, user_url: "https://linkedin/in/francocurotto" }
+        email: francocurotto@gmail.com
+        github: francocurotto
+        linkedin: francocurotto
