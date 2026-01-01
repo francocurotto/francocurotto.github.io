@@ -7,10 +7,5 @@ theme: minima
 header_pages:
     - outreach.md
     - recipes.md
-    - caso_sustituto.md
+    - projects.md
     - jp_lyrics.md
-    #minima:
-    #social_links:
-    #    email: francocurotto@gmail.com
-    #    github: francocurotto
-    #    linkedin: francocurotto

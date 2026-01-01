@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "JP Lyrics"
+title: "🇯🇵 JP Lyrics"
+permalink: /jp_lyrics/
 ---
 
 # Perfume
