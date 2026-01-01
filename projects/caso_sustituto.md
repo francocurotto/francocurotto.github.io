@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Caso Sustituto"
-permalink: /projects/caso_sustituto/
 ---
 
 ![Turnabout Substitution](/static/images/20220715-caso-sustituto.png){: style="width: 300px; display: block; margin: 0 auto; text-align: center;" }
