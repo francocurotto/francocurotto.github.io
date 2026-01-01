@@ -8,7 +8,7 @@ def main():
         # start
         f2.write("---\n")
         f2.write("site: post\n")
-    
+
         for line in f1:
             if line.startswith("title:"):
                 add_title(f2, line)
