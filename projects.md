@@ -5,4 +5,4 @@ permalink: /projects/
 ---
 
 # Personal
-- [Caso Sustituto](projects/caso_sustituto.md): Traducción de juego fanmade de la saga Ace Attorney.
+- [Caso Sustituto](projects/caso_sustituto.md): Traslation on a fanmade Ace Attorney game (🇪🇸 Spanish).
