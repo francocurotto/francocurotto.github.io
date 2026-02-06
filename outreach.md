@@ -5,7 +5,7 @@ permalink: /outreach/
 ---
 
 ### On the News
-- [[2026] Interview for Radio Cooperativa during Future Congress (https://www.youtube.com/watch?v=Rj-38TZ4G4c)]
+- [[2026] Interview for Radio Cooperativa during Future Congress (🇪🇸 Spanish)🔗)](https://www.youtube.com/watch?v=Rj-38TZ4G4c)
 - [[2025] Article on project I'm leading (🇪🇸 Spanish)🔗](https://www.cooperativaciencia.cl/tecnologia/2025/03/10/tecnologia-astronomica-busca-optimizar-la-alimentacion-de-aves/)
 - [[2025] On TV sharing CATA technology (🇪🇸 Spanish)🔗](https://www.youtube.com/watch?v=HSdtaqHB2Bw)
 - [[2019] Presentation at CASPER Workshop🔗](https://www.youtube.com/watch?v=0nEW_KABmiQ)
